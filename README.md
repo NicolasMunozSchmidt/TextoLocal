@@ -68,4 +68,4 @@ Escríbeme y coordinamos la transferencia. La clave llega el mismo día.
 
 ## Contacto
 
-Desarrollado por Nicolás Muñoz Schmidt. Si encuentras un error o necesitas algo puntual, escríbeme directamente: contesta la misma persona que hizo el programa.
+Desarrollado por Nicolás Muñoz. Si encuentras un error o necesitas algo puntual, escríbeme directamente: contesta la misma persona que hizo el programa.
