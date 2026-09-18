@@ -4,7 +4,7 @@
 Aplicación de escritorio para Windows que extrae texto de imágenes y PDFs escaneados y lo exporta a TXT, Word o PDF. Todo el procesamiento ocurre en tu equipo: no hay servidores, no hay subidas, no hay conexión.
 
 ### [⬇ Descargar TextoLocal (Windows)](https://github.com/NicolasMunozSchmidt/TextoLocal/releases/download/v1.0/TextoLocal.zip)
-![Ventana principal de TextoLocal](https://private-user-images.githubusercontent.com/330158011/654729246-a0ab81e8-6369-40a9-8e7d-52c989c0defd.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3NDI0NTMsIm5iZiI6MTc4OTc0MjE1MywicGF0aCI6Ii8zMzAxNTgwMTEvNjU0NzI5MjQ2LWEwYWI4MWU4LTYzNjktNDBhOS04ZTdkLTUyYzk4OWMwZGVmZC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkxOFQxNDM1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MzNmOGZiNjVhMzQ5NTVhZjc2N2Q1NjJmY2I5NGJkNzI1ZDg3MTk3MmM4NmVhODZiMmY3ZWE1OWI0ZjA4ZTk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.i21jYCNkCWbi8Wvl9_zv3dxONr8JAD9pGB784IXF8f4)
+![Ventana principal de TextoLocal](http://github.com/NicolasMunozSchmidt/TextoLocal/releases/download/v1.0/foto_del_programa.png)
 ---
 
 ## Por qué existe
