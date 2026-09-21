@@ -35,6 +35,8 @@ La versión gratuita tiene **todas las funciones habilitadas**, con un límite d
 | Procesamiento por lotes | Sí | Sí | Sí | Sí |
 | Equipos | 1 | 2 | 6 | 8 |
 | Precio (CLP) | — | $29.000 | $99.000 | $199.990 |
+| Módulo traducción | Sí | Sí | Sí | Sí | 
+| Límite de traducción | 2000 palabras por día | 2000 palabras por día | 2000 palabras por día | Sin limites | 
 
 Las licencias son de por vida: se pagan solo una vez y el programa es tuyo para siempre.
 
