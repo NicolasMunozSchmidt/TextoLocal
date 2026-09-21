@@ -36,7 +36,7 @@ La versión gratuita tiene **todas las funciones habilitadas**, con un límite d
 | Exportar a TXT, Word y PDF | Sí | Sí | Sí | Sí |
 | Procesamiento por lotes | Sí | Sí | Sí | Sí |
 | Equipos | 1 | 2 | 6 | 8 |
-| Precio (CLP) | — | $29.000 | $99.000 | $190.000 |
+| Precio (CLP) | — | $29.000 ($32 USD) | $99.000 ($105 USD) | $190.000 ($199 USD) |
 | Módulo de traducción | Sí | Sí | Sí | Sí | 
 | Límite de traducción | 2000 palabras por día | 2000 palabras por día | 2000 palabras por día | Sin limites de palabras | 
 
