@@ -28,13 +28,13 @@ TextoLocal resuelve el mismo problema sin que el documento salga nunca del equip
 
 La versión gratuita tiene **todas las funciones habilitadas**, con un límite de **10 páginas al día**. No hay marcas de agua, ni funciones bloqueadas, ni vencimiento.
 
-| | Gratis | Personal | Estudio |
-|---|---|---|---|
-| Páginas por día | 10 | Sin límite | Sin límite |
-| Exportar a TXT, Word y PDF | Sí | Sí | Sí |
-| Procesamiento por lotes | Sí | Sí | Sí |
-| Equipos | 1 | 2 | 6 |
-| Precio (CLP) | — | $29.000 | $99.000 |
+| | Gratis | Personal | Estudio | Editorial 
+|---|---|---|---|---|
+| Páginas por día | 10 | Sin límite | Sin límite | Sin límite |
+| Exportar a TXT, Word y PDF | Sí | Sí | Sí | Sí |
+| Procesamiento por lotes | Sí | Sí | Sí | Sí |
+| Equipos | 1 | 2 | 6 | 8 |
+| Precio (CLP) | — | $29.000 | $99.000 | $199.990 |
 
 Las licencias son de por vida: se pagan solo una vez y el programa es tuyo para siempre.
 
