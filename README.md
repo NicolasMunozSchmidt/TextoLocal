@@ -61,6 +61,7 @@ No requiere instalador, ni permisos de administrador, ni Python.
 ## Privacidad
 
 TextoLocal no realiza ninguna conexión a internet, en ningún momento. Ni para procesar documentos, ni para activar la licencia, ni para buscar actualizaciones. Los modelos de reconocimiento vienen incluidos en el ejecutable y corren localmente.
+La única conexión posible es la descarga de un paquete de idioma (opcional) si se quiere usar el modulo de traducción, y solo cuando el usuario la acepta de forma expresa — la app nunca la inicia por su cuenta.
 
 La activación de licencia se verifica con una firma criptográfica en el propio equipo, sin consultar ningún servidor.
 
