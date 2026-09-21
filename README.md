@@ -62,9 +62,20 @@ La activación de licencia se verifica con una firma criptográfica en el propio
 
 ## Comprar una licencia
 
-Escríbeme y coordinamos la transferencia. La clave llega el mismo día.
+Escríbeme y coordinamos el pago mediante Transferencia bancaria, PayPal o cripto, La clave te llega el mismo día.
 
 - Correo: ventastextolocal@gmail.com
+
+## Donaciones
+
+Si quieres donar y apoyar el desarrollo de este proyecto puedes enviar tu aporte a las siguientes direcciones: 
+
+BTC: 1A5NVJHKbqZExBh1UYXjNNCwYAiNuZMowv
+
+ETH: 0x2eb15c8cd0f75396e651333d8182d97a09c11f5f
+
+LTC: LcopdX4EqL6fJa8yvNemYECrRzJwdroUXd
+
 
 ## Contacto
 
