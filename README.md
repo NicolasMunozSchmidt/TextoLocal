@@ -1,7 +1,7 @@
 # TextoLocal
 **OCR en español que funciona 100% sin internet. Tus documentos nunca salen de tu computador.**
 
-Aplicación de escritorio para Windows que extrae texto de imágenes y PDFs escaneados y lo exporta a TXT, Word o PDF. Todo el procesamiento ocurre en tu equipo: no hay servidores, no hay subidas, no hay conexión.
+Aplicación de escritorio para Windows que extrae texto de imágenes y PDFs escaneados y lo exporta a TXT, Word o PDF. Todo el procesamiento ocurre en tu equipo: no hay servidores, no hay subidas, no hay conexión. La única conexión posible es la descarga de un paquete de idioma (opcional) si se quiere usar el modulo de traducción, y solo cuando el usuario la acepta de forma expresa — la app nunca la inicia por su cuenta.
 
 ### [⬇ Descargar TextoLocal (Windows)](https://github.com/NicolasMunozSchmidt/TextoLocal/releases/download/v1.0/TextoLocal.zip)
 ![Ventana principal de TextoLocal](http://github.com/NicolasMunozSchmidt/TextoLocal/releases/download/v1.0/foto_del_programa.png)
