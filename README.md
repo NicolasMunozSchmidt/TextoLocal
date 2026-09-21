@@ -23,6 +23,8 @@ TextoLocal resuelve el mismo problema sin que el documento salga nunca del equip
 - Permite editar el resultado antes de exportar
 - Exporta a **TXT**, **Word (.docx)** y **PDF**
 - Copia el texto al portapapeles con un clic
+- Permite traducir texto reconocido al Inglés
+- Permite exportar texto traducido
 
 ## Versión gratuita y licencia
 
@@ -34,7 +36,7 @@ La versión gratuita tiene **todas las funciones habilitadas**, con un límite d
 | Exportar a TXT, Word y PDF | Sí | Sí | Sí | Sí |
 | Procesamiento por lotes | Sí | Sí | Sí | Sí |
 | Equipos | 1 | 2 | 6 | 8 |
-| Precio (CLP) | — | $29.000 | $99.000 | $199.990 |
+| Precio (CLP) | — | $29.000 | $99.000 | $190.000 |
 | Módulo de traducción | Sí | Sí | Sí | Sí | 
 | Límite de traducción | 2000 palabras por día | 2000 palabras por día | 2000 palabras por día | Sin limites de palabras | 
 
